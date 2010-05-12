@@ -1,0 +1,2 @@
+/Users/geordiemillar/dev/QCbacklight/QCbacklightPlugIn.m: In function '-[QCbacklightPlugIn(Execution) execute:atTime:withArguments:]':
+/Users/geordiemillar/dev/QCbacklight/QCbacklightPlugIn.m:144: warning: 'IOConnectMethodScalarIScalarO' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h:1289)

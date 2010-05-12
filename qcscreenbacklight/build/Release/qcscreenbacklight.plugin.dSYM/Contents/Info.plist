@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>English</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.apple.xcode.dsym.qcscreenbacklight.plugin</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundlePackageType</key>
+		<string>dSYM</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleVersion</key>
+		<string>1.0</string>
+		<key>dSYM_UUID</key>
+		<dict>
+			<key>i386</key>
+			<string>8c 95 97 6c 5d 32 29 d3  a3 27 8c 47 7b 86 28 43</string>
+			<key>ppc</key>
+			<string>d8 82 b8 71 c5 88 55 71  97 f7 b5 08 ef 2e aa 13</string>
+			<key>ppc64</key>
+			<string>18 2c c8 db ab 04 81 0d  9d 13 f0 b7 86 b2 15 e2</string>
+			<key>x86_64</key>
+			<string>43 df d6 94 d4 21 9d 98  52 4b 6b 10 79 52 ac f4</string>
+		</dict>
+	</dict>
+</plist>
